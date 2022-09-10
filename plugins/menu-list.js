@@ -12,8 +12,8 @@ const sections = [
    {
 	title: `✃ LIST MENU`,
 	rows: [
-	    {title: "∫ 🧿» Simpel «", rowId: '.mw', description: 'Menu simple xʜɪᴍᴍᴇʀ ʙᴏᴛ࿐' },
-	    {title: "∫ 🌸» List Menu «", rowId: '.?', description: 'Menu Kece xʜɪᴍᴍᴇʀ ʙᴏᴛ࿐' },
+	    {title: "∫ 🧿» Simpel «", rowId: '.mw', description: 'Menu simple ᴠᴇɴ-ʙᴏᴛᴢ' },
+	    {title: "∫ 🌸» List Menu «", rowId: '.?', description: 'Menu Kece ᴠᴇɴ-ʙᴏᴛᴢ' },
         ]
         }, 
 
