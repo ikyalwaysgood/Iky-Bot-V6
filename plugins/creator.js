@@ -13,13 +13,13 @@ const message = {
                 {
                     urlButton: {
                         displayText: '🌹IG OWNER',
-                        url: 'https://instagram.com/_alv.stn',
+                        url: 'https://instagram.com/imleviofc',
                     }
                 },
                 {
                     urlButton: {
                         displayText: '📞 Author',
-                        url: 'https://wa.me/6287734910547',
+                        url: 'https://wa.me/6285172446692',
 
                     }
                 },
