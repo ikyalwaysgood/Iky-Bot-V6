@@ -11,7 +11,7 @@ import fetch from 'node-fetch'
 
 const defaultMenu = {
   before: `
-··────━•〔 xʜɪᴍᴍᴇʀ ʙᴏᴛ࿐ 〕•━────··
+··────━•〔 ✼ᴠᴇɴ-ʙᴏᴛᴢ✼ 〕•━────··
 
  *〔 llı INFO USER ıll 〕*
  
@@ -233,11 +233,11 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
    {
 	title: `${htki} ▮𝗦𝘁𝗮𝘁𝘂𝘀 」 ${htka}`,
 	rows: [
-	    {title: `┊📛┊Info Bot`, rowId: ".info", description: "✧ Info xʜɪᴍᴍᴇʀ ʙᴏᴛ࿐"},
+	    {title: `┊📛┊Info Bot`, rowId: ".info", description: "✧ Info ᴠᴇɴ-ʙᴏᴛᴢ"},
 	    {title: `┊💌┊Owner`, rowId: ".owner", description: "✧ Ini Room Developer❗"},
 	{title: `┊🗣┊Request Fitur`, rowId: ".request", description: "✧ Request Fitur menarik ke BOT"},
 	{title: ` ┊📊┊Test Speed`, rowId: ".testspeed", description: "✧ Test Install Speed BOT"},
-	{title: `┊⚡┊Speed`, rowId: ".speed", description: "✧ Kecepatan Respon 赤 Sullivan - BOT..."},
+	{title: `┊⚡┊Speed`, rowId: ".speed", description: "✧ Kecepatan Respon 赤 ᴠᴇɴ-ʙᴏᴛᴢ..."},
 	]
     },{
 	title: `${htki} ▮𝗖𝗮𝘁𝗲𝗴𝗼𝗿𝘆 」 ${htka}`,
@@ -299,7 +299,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
 let usrs = db.data.users[m.sender]
 let tek = `
 ───────[ DASHBOARD ]───────
-http://bīt.ly/ByMr.Iqbalᯤ*
+http://bīt.ly/Bylevi-yan-xhiaoᯤ*
 ${ucapan()}  ${await conn.getName(m.sender)}
 
         *〔 llı INFO BOT ıll 〕*
@@ -321,7 +321,7 @@ ${clockStringP(usrs.premiumTime - new Date())}` : ''}
 `
 const listMessage = {
   text: tek,
-  footer: 'xʜɪᴍᴍᴇʀ ʙᴏᴛ࿐',
+  footer: 'ᴠᴇɴ-ʙᴏᴛᴢ',
   mentions: await conn.parseMention(tek),
   title: ``,
   buttonText: `Click Here ❗`,
@@ -529,12 +529,12 @@ const listMessage = {
             fileLength: fsizedoc,
             pageCount: fpagedoc,
             caption: text,
-            footer: titlebot + '\n⚡ Supported By Vinz TEAM',
+            footer: titlebot + '\n⚡ Supported By Levi TEAM',
             templateButtons: [
                 {
                     urlButton: {
                         displayText: `${namebot}`,
-                        url: 'https://github.com/ShionMDv'
+                        url: 'https://github.com/ImleviOfc'
                     }
                 },
                 {
