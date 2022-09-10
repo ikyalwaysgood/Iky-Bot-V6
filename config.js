@@ -37,17 +37,16 @@ global.snh = 'https://nhentai.net/g/365296/' //Make ini ana gausah di ganti.
 
 /*⫘⫘⫘⫘ALL PAYMENT⫘⫘⫘⫘⫘*/
 global.pdana = '085172446692' //Dana
-global.povo = '----' //Ovo
-global.pgopay = '----' //Gopay
+global.povo = '085172446692' //Ovo
 global.ppulsa = '085172446692' //Pulsa 
 global.ppulsa2 = '085172446692' //Pulsa, Kalau nomor cuma 1, yg ini kasih tanda -
 global.psaweria = 'Unavailable' //Saweria
 
 /*⫘⫘⫘⫘ GLOBAL NOMOR ⫘⫘⫘⫘⫘*/
-global.nomorbot = '6285171615843' //Nomor Bot mu
+global.nomorbot = '6281255466600' //Nomor Bot mu
 global.nomorown = '6285172446692' //Nomormu
-global.namebot = '𝚅𝙴𝙽-𝙱𝙾𝚃' //Nama bot mu
-global.nameown = 'Levi Xhiao' //Nama mu
+global.namebot = 'ᴠᴇɴ-ʙᴏᴛᴢ' //Nama bot mu
+global.nameown = 'ʟᴇᴠɪ-ʏᴀɴ-xʜɪᴀᴏ' //Nama mu
 
 
 /*⫘⫘⫘⫘ STAFF ⫘⫘⫘⫘⫘*/
@@ -55,7 +54,7 @@ global.owner = [
   ['6285172446692'], //Owner1
   ['6285172446692'], //Owner2
   ['6285172446692'], //Owner3
-  ['6285172446692', '𝙻𝙴𝚅𝙸 𝚇𝙷𝙸𝙰𝙾 ! 🔥', true] //Ini buat kamu!
+  ['6285172446692', 'ʟᴇᴠɪ-ʏᴀɴ-xʜɪᴀᴏ ! 🔥', true] //Ini buat kamu!
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -109,7 +108,7 @@ global.wm2 = '┏━°⌜ 𝚅𝙴𝙽 𝙱𝙾𝚃 ⌟°━┓' //Name Wm
 global.wm3 = '⫹⫺ 𝙑𝙀𝙉 𝘽𝙊𝙏'
 global.botdate = `🗓️️ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = 'IG:@_IM LEVI OFC' //Ganti serah lu
+global.titlebot = 'IG:@_imleviofc' //Ganti serah lu
 global.author = '                𝚅𝙴𝙽-𝙱𝙾𝚃' //Wm author
 
 
@@ -145,7 +144,7 @@ global.fpagedoc = '999' //Gausah di ganti.
 global.dmenut = '╭────━•〔' //top
 global.dmenub = '│ ⸙͎۪۫' //body
 global.dmenub2 = '│' //body for info cmd on Default menu
-global.dmenuf = '𝙏𝙃𝘼𝙉𝙆𝙎 𝙏𝙊\n\n◐ Fokus Id\n◐Mr.Iqbal\n◐Ario\n◐Ayank rere🥺\n◐Staff Codding\n◐Allah SWT\n◐Pemakai bot ini\n◐I love you\n\n*The one and only Rizki Iqbal Muladi*' //footer
+global.dmenuf = '𝙏𝙃𝘼𝙉𝙆𝙎 𝙏𝙊\n\n◐ Fokus Id\n◐Mr.Iqbal\n◐Ario\n◐Ayank rere🥺\n◐Staff Codding\n◐Allah SWT\n◐Pemakai bot ini\n◐I love you\n\n*The one and only ʟᴇᴠɪ-ʏᴀɴ-xʜɪᴀᴏ*' //footer
 
 // COMMAND MENU
 global.cmenut = '╭────━•〔' //top
@@ -164,7 +163,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 
 /*⫘⫘⫘⫘ STICKER ⫘⫘⫘⫘⫘*/
-global.stickpack = '*IG : r_iqbl02*'
+global.stickpack = '*IG :@_imleviofc*'
 global.stickauth = `© Sullivan BOT\nOfficial by Whatsapp\nNomor: ${global.nomorbot}`
 
 global.multiplier = 38 // The higher, The harder levelup
