@@ -29,7 +29,7 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 // Kalau gapunya di biarin aja!, atau ga di kasih tanda '-'
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/imleviofc?igshid=YmMyMTA2M2Y=' //Instagram mu
+global.sig = 'https://instagram.com/imleviofc' //Instagram mu
 global.sgh = 'https://github.com/ImleviOfc' //Github mu
 global.sgc = 'https://chat.whatsapp.com/CElgl37YTIJKzugfUYIwX6' //Group WhatsApp mu
 global.sdc = '----' //Discord Mu
