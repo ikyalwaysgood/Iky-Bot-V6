@@ -5,7 +5,7 @@ export async function all(m) {
 		let _uptime = process.uptime() * 1000
 		let uptime = clockString(_uptime);
 		let wm = 'ᴠᴇɴ-ʙᴏᴛᴢ'
-		let bio = `🗓️Aktif selama ${uptime} | Mode: ${global.opts['self'] ? 'Private' : setting.self ? 'Private' : global.opts['gconly'] ? 'Hanya Grup' : 'Publik'} | 🔥 Sc By ${wm}`
+		let bio = `🗓️Aktif selama ${uptime} | Mode: ${global.opts['self'] ? 'Private' : setting.self ? 'Private' : global.opts['gconly'] ? 'Hanya Grup' : 'Publik'} | 🌸 Sc By ${wm}`
 
 		await this.setBio(bio).catch(_ => _)
 		setting.status = new Date() * 1
