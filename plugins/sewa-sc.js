@@ -20,13 +20,13 @@ const message = {
                 {
                     urlButton: {
                         displayText: 'Save Owner Dong🗿',
-                        url: 'https://wa.me/6287734910547',
+                        url: 'https://wa.me/6285172446692',
                     }
                 },
                 {
                     quickReplyButton: {
                         displayText: '📛 ᴊᴀɴɢᴀɴ ᴅɪ ᴋʟɪᴋ ᴋᴀᴋ',
-                        url: 'https://instagram.com/_alv.stn'
+                        url: 'https://instagram.com/imleviofc'
                     }
                 },
                 {
@@ -50,7 +50,7 @@ contextInfo: { externalAdReply :{
                         mediaType: 2,
                         description: 'anu',
                         title: bottime,
-                        body: 'BOT BY Vinz',          previewType: 0,
+                        body: 'BOT BY Levi',          previewType: 0,
                         thumbnail: fs.readFileSync("./thumbnail.jpg"),
                         sourceUrl: sgc
                       }}
