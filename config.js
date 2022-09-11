@@ -166,7 +166,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 global.stickpack = '*IG :@_imleviofc*'
 global.stickauth = `© Sullivan BOT\nOfficial by Whatsapp\nNomor: ${global.nomorbot}`
 
-global.multiplier = 38 // The higher, The harder levelup
+global.multiplier = 100 // The higher, The harder levelup
 
 /*⫘⫘⫘⫘ GLOBAL EMOJI ⫘⫘⫘⫘⫘*/
 global.rpg = {
