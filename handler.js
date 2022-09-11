@@ -610,7 +610,7 @@ esteh: 0,
                 if (!('restrict' in settings)) settings.restrict = true
                 if (!('autorestart' in settings)) settings.autorestart = true
                 if (!('restartDB' in settings)) settings.restartDB = 0
-                if (!isNumber(settings.status)) settings.status = 0 // ini buat data set Status, tambah disini
+                if (!isNumber(settings.status)) settings.status = 1000 // ini buat data set Status, tambah disini
                 if (!('anticall' in settings)) settings.anticall = true
             } else global.db.data.settings[this.user.jid] = {
                 self: false,
@@ -618,7 +618,7 @@ esteh: 0,
                 restrict: true,
                 autorestart: true,
                 restartDB: 0,
-                status: 0, // disini juga,
+                status: 1000, // disini juga,
                 anticall: true // anticall on apa off?
             }
         } catch (e) {
