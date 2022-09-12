@@ -30,8 +30,8 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 global.sig = 'https://instagram.com/imleviofc' //Instagram mu
-global.sgh = 'https://github.com/ImleviOfc' //Github mu
-global.sgc = 'https://chat.whatsapp.com/CElgl37YTIJKzugfUYIwX6' //Group WhatsApp mu
+global.sgh = 'https://github.com/ImleviBotzz' //Github mu
+global.sgc = 'https://chat.whatsapp.com/Io11BFEwL2RAzIQBupUlAZ' //Group WhatsApp mu
 global.sdc = '----' //Discord Mu
 global.snh = 'https://nhentai.net/g/365296/' //Make ini ana gausah di ganti.
 
@@ -45,7 +45,7 @@ global.psaweria = 'Unavailable' //Saweria
 /*⫘⫘⫘⫘ GLOBAL NOMOR ⫘⫘⫘⫘⫘*/
 global.nomorbot = '6281255466600' //Nomor Bot mu
 global.nomorown = '6285172446692' //Nomormu
-global.namebot = 'ᴠᴇɴ-ʙᴏᴛᴢ' //Nama bot mu
+global.namebot = '𝙳𝚁𝙰𝙶𝙾𝙽-𝙱𝙾𝚃𝚉' //Nama bot mu
 global.nameown = 'ʟᴇᴠɪ-ʏᴀɴ-xʜɪᴀᴏ' //Nama mu
 
 
@@ -103,13 +103,13 @@ global.APIKeys = { // APIKey Here
 
 /*⫘⫘⫘⫘ WATERMAK ⫘⫘⫘⫘⫘*/
 //GANTI JANGAN NGASAL.
-global.wm = '                「 ≪•◦𝚅𝙴𝙽 ❈ 𝙱𝙾𝚃◦•≫ 」' //Wm
-global.wm2 = '┏━°⌜ 𝚅𝙴𝙽 𝙱𝙾𝚃 ⌟°━┓' //Name Wm
+global.wm = '                「 ≪•◦𝙳𝚁𝙰𝙶𝙾𝙽 ❈ 𝙱𝙾𝚃𝚉◦•≫ 」' //Wm
+global.wm2 = '┏━°⌜ 𝙳𝚁𝙰𝙶𝙾𝙽 𝙱𝙾𝚃𝚉 ⌟°━┓' //Name Wm
 global.wm3 = '⫹⫺ 𝙑𝙀𝙉 𝘽𝙊𝙏'
 global.botdate = `🗓️️ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = 'IG:@_imleviofc' //Ganti serah lu
-global.author = '                𝚅𝙴𝙽-𝙱𝙾𝚃' //Wm author
+global.author = '                𝙳𝚁𝙰𝙶𝙾𝙽-𝙱𝙾𝚃𝚉' //Wm author
 
 
 /*⫘⫘⫘⫘ LOGO ⫘⫘⫘⫘⫘*/
@@ -164,7 +164,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*⫘⫘⫘⫘ STICKER ⫘⫘⫘⫘⫘*/
 global.stickpack = '*IG :@_imleviofc*'
-global.stickauth = `© Sullivan BOT\nOfficial by Whatsapp\nNomor: ${global.nomorbot}`
+global.stickauth = `© Dragon BOT\nOfficial by Whatsapp\nNomor: ${global.nomorbot}`
 
 global.multiplier = 100 // The higher, The harder levelup
 
