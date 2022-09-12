@@ -22,7 +22,7 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
 let teksbio = `${htki} *BIODATA* ${htka}
 *💌 Nama* : Levi
-*✉️ Nama BOT* : ᴠᴇɴ-ʙᴏᴛᴢ
+*✉️ Nama BOT* : 𝙳𝚁𝙰𝙶𝙾𝙽-𝙱𝙾𝚃𝚉
 *♂️ Gender* : Laki - laki
 *🕋 Agama* : Islam
 *⏰ Tanggal lahir* : 7 desember 2007
