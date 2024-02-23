@@ -7,44 +7,6 @@
   <a href="https://github.com/ShionMDv"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Vinz+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+Vinz;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
 </p>
 
-<p align="center">
- <a href="#"><img title="VinzBOT" src="https://img.shields.io/badge/VINZ BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
-<p align="center">
-<a href=""><img title="Author" src="https://img.shields.io/badge/AUTHOR-FANGZ-blue.svg?style=for-the-badge&logo=github"></a>
-</p>
-<a href="https://github.com/Fangzbotz2007/KaiZax
-<a href="https://github.com/Fangzbotz2007/Ayane45121
-<a href="https://github.com/Fangzbotz2007/FangzBOT
-
----------
-## ```Connect With Me 📞``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
-  <a href="https://wa.me/6287734910547">
-    <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="https://tiktok.com/@wvinz">
-    <img align="left" alt="SIEGRIN | Titkok" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Tiktok.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="https://instagram.com/_alv.stn?igshid=YmMyMTA2M2Y=">
-    <img align="left" alt="SIEGRIN | Instagram" width="24px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Instagram.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="mailto:alvinrinegar@gmail.com">
-    <img align="left" alt="SIEGRIN | Gmail" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Gmail.svg" />
-  </a> &nbsp;&nbsp;
----------
-
-## ```Whatsapp``` <a href="https://wa.me/6287734910547"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
-[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281774916559) 
-[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6287734910547) 
-[![GROUP OFFICIAL](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/HpxyS6b45SoGIKG7LHddiM) 
-
----------
-
-🆃🅰🅼🅿🅸🅻🅰🅽 🅼🅴🅽🆄🅽🆈🅰 🅱🅸 🅻🅸🅺🅴:
-<p align="center">
-    <img src="https://telegra.ph/file/3814a74af596acc6a3e89.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
-</p>
-
 -----------
 #### KELEBIHAN 📍
 | Kelebihan | Check |
